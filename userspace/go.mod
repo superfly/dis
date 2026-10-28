@@ -9,5 +9,5 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.7.1
-	golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 )
